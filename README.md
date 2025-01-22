@@ -1,5 +1,3 @@
-# ChitChat-Hub
-
 ChitChat-Hub is a real-time chat application built with React JS and Chat Engine. It enables users to communicate seamlessly in real-time using the Chat Engine API. 
 
 ## Live Demo
@@ -20,3 +18,6 @@ Check out the live demo [here](https://chatme-room.netlify.app/).
 - React hooks for state management
 - Responsive design principles
 
+
+##
+![image](https://github.com/user-attachments/assets/2afef53d-8afe-464e-bc19-419a154fa7ff)
